@@ -1,0 +1,10 @@
+{"question": "企业知识库系统是什么?", "expected_keywords": ["检索增强生成", "RAG", "问答系统", "本地大语言模型", "离线部署"], "category": "系统概述"}
+{"question": "这个系统支持哪些文档格式?", "expected_keywords": [".txt", ".md", "文本文件", "Markdown"], "category": "功能特性"}
+{"question": "系统如何进行文档切分?", "expected_keywords": ["chunk", "切分", "overlap", "512", "128"], "category": "技术实现"}
+{"question": "系统使用什么技术栈?", "expected_keywords": ["Ollama", "PostgreSQL", "pgvector", "FastAPI", "Streamlit", "llama3.1"], "category": "技术栈"}
+{"question": "如何部署这个系统?", "expected_keywords": ["Docker", "docker-compose", "离线", "内网", "本地"], "category": "部署"}
+{"question": "系统如何进行语义检索?", "expected_keywords": ["向量", "embedding", "bge-m3", "相似度", "cosine"], "category": "技术实现"}
+{"question": "系统有什么监控功能?", "expected_keywords": ["Prometheus", "metrics", "feedback", "日志", "监控"], "category": "运维"}
+{"question": "如何使用本地Ollama?", "expected_keywords": ["host.docker.internal", "11434", "本地", "配置", "环境变量"], "category": "配置"}
+{"question": "系统如何处理检索失败?", "expected_keywords": ["相关度", "阈值", "threshold", "证据不足", "拒绝回答"], "category": "功能特性"}
+{"question": "如何获取embedding模型?", "expected_keywords": ["HuggingFace", "bge-m3", "下载", "models目录", "离线"], "category": "配置"}
